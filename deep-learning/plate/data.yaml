@@ -1,6 +1,7 @@
-path: C:\Users\glylm\Desktop\gyk-ai\deep-learning\plate\dataset
+path: C:\Users\glylm\Desktop\dp\plaka_tespiti\deep-learning\plate\dataset
 train: images
 val: images
+
 
 
 nc: 1
